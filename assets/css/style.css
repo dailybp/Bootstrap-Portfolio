@@ -1,0 +1,131 @@
+/* * {
+  border:1px dashed black;
+} */
+
+.container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header{
+  color:white;
+  width:55%;
+  height:50px;
+  font-family:courier;
+  background-color:rgb(5,136,154);
+  border-top-right-radius: 2em;
+  border-top-left-radius: 2em;
+  padding:10px 10px 10px 10px;
+  float:left;
+}
+
+nav{
+  display:in-line;
+  float:right;
+  background-color:rgb(5, 136, 154);
+}
+
+body{
+  background-image: url("/Users/brendandailey/class/Homework/Basic-Portfolio/assets/images/background.jpg");
+  background-repeat: repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  float:right;
+}
+
+aside{
+  background-color: white;
+  float:right;
+  font-family:courier;
+  color:rgb(211,1,102);
+  text-decoration: underline;
+  text-align: center;
+  height:130px;
+  margin:5px 5px 5px 5px;
+  width:30%;
+  text-align: center;
+  border-radius: 1px;
+}
+
+article{
+  font-family:courier;
+  font-size:20px;
+  color:rgb(5, 136, 154);
+  background-color: white;
+  padding:5px 5px 5px 5px;
+  width: 60%;
+  float:left;
+  border-bottom-right-radius: 2em;
+  border-bottom-left-radius: 2em;
+}
+
+.links  {
+  width:30px;
+  height:30px;
+  display:block;
+  margin:10px 10px 10px 10px;
+  text-align: center;
+}
+
+.profilePic{
+  width:150px;
+  height:150px;
+  display:block;
+  border:10px solid rgb(255,187,17);
+  float:left;
+  position:relative;
+}
+
+.biography {
+  color:black;
+  font-family:comic sans ms;
+  font-size:16px;
+}
+
+footer{
+  color:rgb(211,1, 102);
+  font-family:courier;
+  bottom:0px;
+  position:fixed;
+  border: 5px solid rgb(255, 187, 17);
+  width:97%;
+  background-color: white;
+  text-align:right;
+}
+.porfolio{
+  background-color: white;
+}
+
+section{
+  background-color: white;
+}
+
+.rpg{
+  width:200px;
+  height:200px;
+}
+
+.hangman{
+  width:200px;
+  height:200px;
+}
+
+.trivia{
+  width:250px;
+  height:200px;
+}
+
+.widget{
+  width:200px;
+  height:200px;
+}
+
+.rps{
+  width:250px;
+  height:200px;
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brendan's Bootstrap Index</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <style>
+  body{ background-image: url("/Users/brendandailey/GW_Coding_Class/Homework/Basic-Portfolio/assets/images/background.jpg");}
+  .navbar .container-fluid>.navbar-header {
+    float: left;
+    margin-right: 10px;
+  }
+  .navbar .navbar-nav {
+    float: left;
+    margin: 5px;
+  }
+  .nav>li {
+    float: left;
+  }
+
+  .contact {
+    background-color: white;
+    border-radius: 2em;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+  footer{
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    width:100%;
+    height:30px;
+    margin-top: 25px;
+    left: 0;
+  }
+  </style>
+</head>
+
+<body>
+  <!--- Wrapping the entire body in a container -->
+  <div class="container-fluid">
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Brendan P. Dailey</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Index</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Portfolio</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Article Section -->
+    <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-md-6">
+        <img class="img-responsive" src="/Users/brendandailey/GW_Coding_Class/Homework/Basic-Portfolio/assets/images/profile_pic.jpg" alt="Profile Picture" width="300px" height="300px">
+      </div>
+
+      <!-- Contact Me Section -->
+      <div class="contact col-sm-3 col-md-6">
+        <h3>Contact Me</h3>
+          <a href="#"><img class="img-responsive" src="/Users/brendandailey/GW_Coding_Class/Homework/Basic-Portfolio/assets/images/github.png" width="50px" height="50px"></a>
+          <a href="#"><img class="img-responsive" src="/Users/brendandailey/GW_Coding_Class/Homework/Basic-Portfolio/assets/images/linkedin.png" width="50px" height="50px"></a>
+          <a href="#"><img class="img-responsive" src="/Users/brendandailey/GW_Coding_Class/Homework/Basic-Portfolio/assets/images/stackoverflow.png" width="50px" height="50px"></a>
+      </div>
+    </div>
+  </div>
+
+<!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+        <p class="text-muted" style= text-align:right >Copyright Brendan P. Dailey</p>
+    </div>
+  </footer>
+</body>
+</html>
