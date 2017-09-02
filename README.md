@@ -3,9 +3,12 @@
 **Brendan Dailey** email address: daileybp@mac.com
 ## My Projects
 - [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
-    - Run raw @ Github \*https://rawgit.com/user/repo/branch/file\*
-    
+    - Run raw @ Github \* https://rawgit.com/user/repo/branch/file \*
+
     https://github.com/dailybp/Bootstrap-Portfolio/blob/runraw/index.html
+    - ### Tasks list to run raw from Github
+    [] Modify referenced files to point to Github runraw branch
+    [] Test run raw command     
 
 - [Starwars Game](https://github.com/dailybp/Star_Wars_Game)
 - [Crystal Game](https://github.com/dailybp/Crystal_Game)
