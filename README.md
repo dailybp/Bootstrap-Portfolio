@@ -28,6 +28,6 @@
 - [Responsive-Portfolio](https://github.com/dailybp/Responsive-Portfolio)
 - [Wireframe homework](https://github.com/dailybp/HW-Wireframe)
 ## HTML Framesets
-- [HTML 5](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/html5-framework)
-- [HTML 4.01](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/html5-framework)
-- [XHTML 1](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/xhtml1_frameset)
+- [HTML 5](framesets/html5-framework)
+- [HTML 4.01](framesets/html5-framework)
+- [XHTML 1](framesets/xhtml1_frameset)
