@@ -2,8 +2,6 @@
 ## Contact
 **Brendan Dailey** email address: daileybp@mac.com
 
-![My profile image](assets/images/profile_pic.png?raw=true)
-
 ![](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/assets/images/profile_pic.jpg?raw=true)
 
 ## My Projects
