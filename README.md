@@ -7,7 +7,15 @@
 
     https://github.com/dailybp/Bootstrap-Portfolio/blob/runraw/index.html
     - ### Tasks list to run raw from Github
+    - [ ] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
+        - [ ] CSS stylesheet bootstrap.min.css
+        - [ ] background.jpg
+        - [ ] profile_pic.jpg
+        - [ ] github.png
+        - [ ] linkedin.png
+        - [ ] stackoverflow.png
+    - [ ] Use HTML copyright symbol &copy
     - [ ] Test run raw command     
 
 - [Starwars Game](https://github.com/dailybp/Star_Wars_Game)
