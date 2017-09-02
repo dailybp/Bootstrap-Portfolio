@@ -1,6 +1,7 @@
 # Bootstrap-Portfolio
 ## Contact
 **Brendan Dailey** email address: daileybp@mac.com
+!(assets/profile_pic.png?raw=true)
 ## My Projects
 - [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
     - Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
@@ -8,14 +9,14 @@
     - ### Tasks list to run raw from Github
     - [ ] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
-        - [ ] CSS stylesheet bootstrap.min.css
-        - [ ] background.jpg
-        - [ ] profile_pic.jpg
-        - [ ] github.png
-        - [ ] linkedin.png
-        - [ ] stackoverflow.png
-    - [ ] Use HTML copyright symbol &copy
-    - [ ] Test run raw command     
+        - [x] CSS stylesheet bootstrap.min.css
+        - [x] background.jpg
+        - [x] profile_pic.jpg
+        - [ ] github.png and href to account
+        - [ ] linkedin.png href to account
+        - [ ] stackoverflow.png href to account
+    - [x] Use HTML copyright symbol &copy
+    - [x] Test run raw command     
 
 - [Starwars Game](https://github.com/dailybp/Star_Wars_Game)
 - [Crystal Game](https://github.com/dailybp/Crystal_Game)
