@@ -4,8 +4,7 @@
 ## My Projects
 - [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
     - Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
-
-    https://github.com/dailybp/Bootstrap-Portfolio/blob/runraw/index.html
+    - https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html
     - ### Tasks list to run raw from Github
     - [ ] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
