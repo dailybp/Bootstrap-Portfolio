@@ -5,9 +5,11 @@
 ![](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/assets/images/profile_pic.jpg?raw=true)
 
 ## My Projects
+To run code from RawGit, see https://rawgit.com/
+
+Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
 - [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
-    - Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
-    - https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html
+    - [Run Portfolio-Bootstrap](h    ttps://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html)
     - ### Tasks list to run raw from Github
     - [x] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
@@ -19,7 +21,8 @@
         - [ ] stackoverflow.png href to account
     - [x] Use HTML copyright symbol &copy
     - [x] Add photo in markup code
-    - [x] Test run raw command     
+    - [x] Test run raw command
+    - [ ] Move runraw branch to master   
 
 - [Starwars Game](https://github.com/dailybp/Star_Wars_Game)
 - [Crystal Game](https://github.com/dailybp/Crystal_Game)
