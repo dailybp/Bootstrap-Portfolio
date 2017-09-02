@@ -1,7 +1,7 @@
 # Bootstrap-Portfolio
 ## Contact
 **Brendan Dailey** email address: daileybp@mac.com
-![My profile image](assets/profile_pic.png?raw=true)
+![My profile image](assets/images/profile_pic.png?raw=true)
 ## My Projects
 - [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
     - Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
