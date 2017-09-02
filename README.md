@@ -9,7 +9,7 @@
     - Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
     - https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html
     - ### Tasks list to run raw from Github
-    - [ ] Remember to work in runraw branch!
+    - [x] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
         - [x] CSS stylesheet bootstrap.min.css
         - [x] background.jpg
@@ -18,6 +18,7 @@
         - [ ] linkedin.png href to account
         - [ ] stackoverflow.png href to account
     - [x] Use HTML copyright symbol &copy
+    - [x] Add photo in markup code
     - [x] Test run raw command     
 
 - [Starwars Game](https://github.com/dailybp/Star_Wars_Game)
