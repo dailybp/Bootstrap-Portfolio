@@ -8,7 +8,7 @@
 To run code from RawGit, see https://rawgit.com/
 
 Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
-- [My Portfolio-Bootstrap](https://github.com/dailybp/Bootstrap-Portfolio)
+- [My Portfolio-Bootstrap](https://github.com/dailybp)
     - [Run Portfolio-Bootstrap](https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html)
     - ### Tasks list to run raw from Github
     - [x] Remember to work in runraw branch!
