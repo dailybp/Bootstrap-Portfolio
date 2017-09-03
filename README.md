@@ -1,15 +1,14 @@
 # Bootstrap-Portfolio
 ## Contact
 **Brendan Dailey** email address: daileybp@mac.com
-
+[My Github Portfolio](https://github.com/dailybp)
 ![](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/assets/images/profile_pic.jpg?raw=true)
 
 ## My Projects
 To run code from RawGit, see https://rawgit.com/
 
 Run raw @ Github using the form `https://rawgit.com/user/repo/branch/file`
-- [My Portfolio-Bootstrap](https://github.com/dailybp)
-    - [Run Portfolio-Bootstrap](https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html)
+- [Run Portfolio-Bootstrap](https://rawgit.com/dailybp/Bootstrap-Portfolio/runraw/index.html)
     - ### Tasks list to run raw from Github
     - [x] Remember to work in runraw branch!
     - [ ] Modify referenced files to point to Github runraw branch
