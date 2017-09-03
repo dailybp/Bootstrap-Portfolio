@@ -1,7 +1,9 @@
 # Bootstrap-Portfolio
 ## Contact
 **Brendan Dailey** email address: daileybp@mac.com
+
 [My Github Portfolio](https://github.com/dailybp)
+
 ![](https://github.com/dailybp/Bootstrap-Portfolio/blob/master/assets/images/profile_pic.jpg?raw=true)
 
 ## My Projects
